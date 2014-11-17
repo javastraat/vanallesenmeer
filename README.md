@@ -6,4 +6,4 @@ This repository is mantained by javastraat and i am just a normal customer of ww
 I have no commercial alliance with vanallesenmeer, they are a just a cool, cheap, nice shop i found on the internet.
 I bought some things but not all :( Some code and hardware i had already :)
 
-for more code look at my other repositories.
+for more code look at my other repositories @ https://github.com/javastraat?tab=repositories 
