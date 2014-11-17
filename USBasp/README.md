@@ -10,4 +10,4 @@ flash-arduino-uno.sh : flash the latest optiboot (5.0) file to a ATMEGA328P in a
 Use the flash-arduino-uno script to flash empty or broken ATMEGA328P chips plugged into an Arduino Uno with Optiboot (https://code.google.com/p/optiboot/)
 
 USBasp is a USB in-circuit programmer for Atmel AVR controllers. It simply consists of an ATMega88 or an ATMega8 and a couple of passive components. The programmer uses a firmware-only USB driver, no special USB controller is needed.
-Features http://www.fischl.de/usbasp/
+(http://www.fischl.de/usbasp/)
