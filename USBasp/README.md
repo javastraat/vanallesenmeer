@@ -8,4 +8,4 @@ flash-arduino-mega.sh : flash the latest stk500boot_v2_mega2560.hex to Arduino M
 
 flash-arduino-uno.sh : flash the latest optiboot (5.0) file to a ATMEGA328P in a Arduino Uno
 
-Use Arduino Uno to flash ATMEGA328P with Optiboot (https://code.google.com/p/optiboot/)
+Use the flash-arduino-uno script to flash empty or broken ATMEGA328P chips with Optiboot (https://code.google.com/p/optiboot/)
