@@ -1,5 +1,5 @@
-Welcome to the vanallesenmeer.nl github.
+Welcome to the vanallesenmeer folder of my github.
 
-Here you will find some Arduino Software for the hardware from http://www.vanallesenmeer.nl
+Here you will find some Arduino Software i wrote/copied/pasted for the hardware from http://www.vanallesenmeer.nl
 
-This repro is mantained by javastraat and i am just a customer of www.vanallesenmeer.nl
+This repro is mantained by javastraat and i am just a normal customer of www.vanallesenmeer.nl
