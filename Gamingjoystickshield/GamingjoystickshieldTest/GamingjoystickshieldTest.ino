@@ -10,7 +10,7 @@ D5 	5 	KEY D
 D6 	6 	KEY E
 D7 	7 	KEY F
 D8 	8 	KEY Down
-Nokoia 5110 LCD
+Nokia 5110 LCD
 Pin 	# 	KEY
 D9 	9 	SCLK
 D10 	10 	CSN
